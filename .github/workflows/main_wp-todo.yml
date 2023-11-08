@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'wp-todo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CFF0197186844DF8579A1487549D798 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FB9F8A99AA1403BA686C7E40289F18E }}
           package: .
